@@ -56,7 +56,7 @@ result_path_dir = "./Result/"
 ## Reference
 ["Accurate Image Super-Resolution Using Very Deep Convolutional Networks", CVPR 16'.](http://cv.snu.ac.kr/research/VDSR/VDSR_CVPR2016.pdf) , **Author's paper**
 
-["tensorflow-vdsr"](https://github.com/Jongchan/tensorflow-vdsr) , **Reference model**
+["Jongchan/tensorflow-vdsr"](https://github.com/Jongchan/tensorflow-vdsr) , **Reference model**
 
 ["Image Super-Resolution Using Deep Convolutional Networks"](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) , **SRCNN paper**
 
