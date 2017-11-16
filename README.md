@@ -30,9 +30,9 @@
 ### Training
 ```py
 # if start from training
-python STDSR.py
+python StandardSR.py
 # if start from with a checkpoint
-python STDSR.py --model_path ./checkpoints/your_model.ckpt
+python StandardSR.py --model_path ./checkpoints/your_model.ckpt
 ```
 
 ### Testing
